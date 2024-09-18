@@ -18,9 +18,12 @@ body {
    color: rgb(160, 17, 88);
    background-color: rgb(248, 132, 151);
    font-family:Georgia, 'Times New Roman', Times, serif;
+   border-left: 6px solid red;
  }
  img{
   width:100mm;
+  border: 2px solid red;
+  border-radius:5px;
  }
  li{
  background-color:rgb(255, 255, 255);

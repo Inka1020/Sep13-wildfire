@@ -15,6 +15,10 @@ body {
  font-size: 50px;
 
  }
+ h3{
+ text-align: center;
+ background-color: rgb(172, 131, 131);
+ }
  h4 {
    color: rgb(160, 17, 88);
    background-color: rgb(248, 132, 151);

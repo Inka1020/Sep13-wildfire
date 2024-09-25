@@ -26,12 +26,35 @@ body {
    border-left: 6px solid red;
  }
  img{
-  width:100mm;
+  width:80mm;
   border: 2px solid red;
   border-radius:5px;
+  
  }
  li{
  background-color:rgb(255, 255, 255);
 
  }
 
+ #title{
+ background-color: chocolate;
+ }
+
+ #content{
+ background-color: rgb(255, 223, 211);
+ width:80%;
+ float:left;
+}
+#menu{
+ background-color: rgb(238, 171, 171);
+ width:10%;
+ height:1000px;
+ float:left
+
+}
+#ads{
+ background-color: rgb(224, 169, 151);
+ width:10%;
+ height:1000px;
+ float: right;
+}
